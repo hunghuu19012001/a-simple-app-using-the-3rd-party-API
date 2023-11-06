@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Order</title>
+</head>
+<body>
+<h1>Create an Order</h1>
+<form th:action="@{/orders/create}" method="post" th:object="${createOrderRequest}">
+    <div>
+        <label for="currency">Currency:</label>
+        <input type="text" id="currency" name="currency" th:field="*{currency}" required>
+    </div>
+    <div>
+        <label for="amount">Amount:</label>
+        <input type="text" id="amount" name="amount" th:field="*{amount}" required>
+    </div>
+    <!-- Add other form fields as needed -->
+    <div>
+        <button type="submit">Create Order</button>
+    </div>
+</form>
+<p th:if="${error}" th:text="${error}"></p>
+</body>
+</html>
