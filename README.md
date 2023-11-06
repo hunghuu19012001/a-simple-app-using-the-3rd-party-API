@@ -55,8 +55,8 @@ Kết quả trả về:
 {"token":"95F6AHIYHL1G","expires":"2023-11-06T19:06:50.000Z","checkoutUrl":"https://portal.integration.scalapay.com/checkout/95F6AHIYHL1G"}
 ```
 
-[!](https://i.imgur.com/aqQht0f.png)
 
+<img src=https://i.imgur.com/aqQht0f.png>
 
 
 
