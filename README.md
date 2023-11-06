@@ -14,7 +14,7 @@ Sau khi cài đặt xong, bạn có thể kiểm tra phiên bản Java và Maven
 java -version
 mvn -version
 
-##Chạy ứng dụng
+## Chạy ứng dụng
 Có thể chạy ứng dụng bằng Intellij IDEA hoặc maven
 
 ... (Thêm hướng dẫn sử dụng và tùy chỉnh khác nếu cần)
