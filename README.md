@@ -55,7 +55,7 @@ Kết quả trả về:
 {"token":"95F6AHIYHL1G","expires":"2023-11-06T19:06:50.000Z","checkoutUrl":"https://portal.integration.scalapay.com/checkout/95F6AHIYHL1G"}
 ```
 
-<img src=https://imgur.com/a/CjvgpaL>
+[![Jason Lengstorf has a lot of ideas.]([https://previews.123rf.com/images/eladora/eladora0901/eladora090100243/4241570-painted-canvas-in-grey-color-as-background-art-is-created-and-painted-by-photographer.jpg](https://imgur.com/a/CjvgpaL))](https://www.facebook.com/hunghn.1901)
 
 
 
