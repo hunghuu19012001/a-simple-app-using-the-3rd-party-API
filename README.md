@@ -54,9 +54,9 @@ Kết quả trả về:
 ```bash
 {"token":"95F6AHIYHL1G","expires":"2023-11-06T19:06:50.000Z","checkoutUrl":"https://portal.integration.scalapay.com/checkout/95F6AHIYHL1G"}
 ```
-```bash
+
 <img src=https://imgur.com/a/CjvgpaL>
-```
+
 
 
 
